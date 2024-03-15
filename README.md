@@ -1,10 +1,10 @@
 # Data Analyst | Report Developer
 
 
-##Technical Skills
-* SQL - MySQL
-* Excel - Pivot Tables, VLOOKUP, INDEX/MATCH, Conditional Formatting, Power Query
-* Power BI - Interactive Dashboards, Data Modeling, DAX Measures, Power Query
+## Technical Skills
+* SQL (MySQL)
+* Excel (Pivot Tables, VLOOKUP, INDEX/MATCH, Conditional Formatting, Power Query)
+* Power BI (Interactive Dashboards, Data Modeling, DAX Measures, Power Query)
 
 
 ## Summary
