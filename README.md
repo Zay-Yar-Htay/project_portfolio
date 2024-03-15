@@ -28,6 +28,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 *	Utilized Power BI to create measures and implemented DAX for advanced data analysis and visualization.
 *	Identified correlations and trends in subscriber behavior, revenue generation, and course popularity across different subjects and years.
 *	Generated actionable insights into subscriber behavior, revenue trends, and course popularity, facilitating data-driven decision-making.
+![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
 
 
 
@@ -39,8 +40,8 @@ Responsible for project planning, data quality control, data analysis and genera
 *	Assisted the regional central team in developing and maintaining automated scripts to extract, transform, and load data from various sources, resulting in a 100% reduction in manual data entry efforts by operators.
 * Utilized internal tools, quality control techniques, data manipulation techniques and data analysis techniques to monitor, analyze and grade large sets of geo data for regular validation.
 
-**Map Ops Associate – Grab Myanmar Ltd.** Nov 2018 – Sep 2022 
-Assisted and collaborated with senior team, data science team and product team in automation and data analysis as well as providing data quality control and generating comprehensive reports and visualizations to deliver actionable insights to stakeholders for data-driven decision-making. Moreover, provided training related to project and data analysis techniques to the team as needed.
+**Map Ops Associate – Grab Myanmar Ltd.** Nov 2018 – Sep 2022
+* Assisted and collaborated with senior team, data science team and product team in automation and data analysis as well as providing data quality control and generating comprehensive reports and visualizations to deliver actionable insights to stakeholders for data-driven decision-making. Moreover, provided training related to project and data analysis techniques to the team as needed.
 *	Conducted comprehensive user surveys to identify underlying factors contributing to low Points of Interest (POI) submission rates. Leveraged advanced data analysis techniques, including statistical analysis and data visualization, to interpret survey responses and extract actionable insights. Implemented data-driven strategies based on analytical findings, resulting in a ~35% increase in POI submission rates throughout the campaign.
 *	Designed and implemented a series of dashboards and data visualizations for every single project that senior management team used to monitor and track the project progress, costs, and KPIs of operators/vendors, leading to improved decision making and better alignment of project goals.
 *	Assisted the regional central team in implementation of automated reporting system, reducing report generation time by ~60% and freeing up valuable time for analysis and strategic planning.
@@ -56,7 +57,7 @@ Key Responsibilities and Day-to-Day Activities
 
 
 ## Education
-**B.A in Geography (Under Graduate)** – Dagon University [Yangon, Myanmar]
+* **B.A in Geography (Under Graduate)** – Dagon University [Yangon, Myanmar]
 
 
 
