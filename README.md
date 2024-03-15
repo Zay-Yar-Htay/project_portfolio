@@ -34,6 +34,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 ## Professional Experiences
 **Map Ops Specialist – Grab Myanmar Ltd.** Oct 2022 – May 2023
+
 Responsible for project planning, data quality control, data analysis and generating comprehensive reports and visualizations to deliver actionable insights to stakeholders for data-driven decision-making. Moreover, provided training related to project and data analysis techniques to the team as needed.
 *	Led the field collection project which is collecting the GEO data for missing places on GrabMap and implemented streamlined workflows for data collection and manipulation techniques to run the operations smoothly, reduce data processing time and maintain data accuracy, resulting in a 99% reduction in inaccuracies and 50% reduction in data processing time.
 *	Led initiatives to address escalating customer complaints related to GrabMap by collaborating with cross-functional teams, implementing a systematic data collection process, analyzing feedback data, and presenting actionable insights through interactive dashboards. Achieved a 90% reduction in GrabMap-related customer complaints, enhancing overall user experience and service quality.
@@ -50,6 +51,7 @@ Assisted and collaborated with senior team, data science team and product team i
 *	Utilized internal tools, quality control techniques, data manipulation techniques and data analysis techniques to monitor, analyze and grade large sets of geo data for regular validation.
 
 **Branch Operations Associate – Grab Myanmar Ltd.** Jul 2017 – Oct 2018
+
 Key Responsibilities and Day-to-Day Activities
 *	Utilizing internal tools to enter the data into database.
 *	Performed vehicle inspections to ensure they meet company-specific safety requirements for safety purposes.
