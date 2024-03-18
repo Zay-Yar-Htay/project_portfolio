@@ -15,7 +15,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 
 ## Projects
-**[Plato's Pizza Sales Analysis]** ([Project Details](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmZkNzg0NzMtMmNhNS00Y2JiLThlMGEtNWUzNWNiZGQzNzk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+**Plato's Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmZkNzg0NzMtMmNhNS00Y2JiLThlMGEtNWUzNWNiZGQzNzk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 * Utilized MySQL extensively for data manipulation in both the data pre-processing phase and the subsequent analysis process. Combined with Power BI for comprehensive dashboard creation, this project extracted actionable insights to drive business strategies.
 * Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
 
@@ -29,7 +29,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 ![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/895aa5bd-9a54-4a01-9be7-092b2df9b676)
 
 
-**[Udemy Courses Analysis]** ([Project Details](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDQ5NmQ4YTItYTNkOC00N2YwLWEyZTYtNTU1Y2FiM2ZiYTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+**Udemy Courses Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDQ5NmQ4YTItYTNkOC00N2YwLWEyZTYtNTU1Y2FiM2ZiYTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 *	Extracted and cleaned raw data from Udemy datasets using Excel to ensure data accuracy and consistency.
 *	Utilized Power BI to create measures and implemented DAX for advanced data analysis and visualization.
 *	Identified correlations and trends in subscriber behavior, revenue generation, and course popularity across different subjects and years.
