@@ -9,15 +9,16 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 ## Technical Skills
 * SQL (MySQL)
-* Excel (Pivot Tables, VLOOKUP, INDEX/MATCH, Conditional Formatting, Power Query)
-* Power BI (Interactive Dashboards, Data Modeling, DAX Measures, Power Query)
+* Excel (Pivot Tables, Formulas & Functions, Conditional Formatting, Power Query)
+* Power BI (Interactive Dashboards, Data Modeling, DAX, Power Query)
 
 
 
 ## Projects
-**Pizza Place Sales Analysis**
+**[Pizza Place Sales Analysis](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis)**
 * Utilized MySQL extensively for data manipulation in both the data pre-processing phase and the subsequent analysis process. Combined with Power BI for comprehensive dashboard creation, this project extracted actionable insights to drive business strategies.
 * Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
+![Plato's Pizza Sales Analysis](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
 
 **Electronic Products Rating Analysis**
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
