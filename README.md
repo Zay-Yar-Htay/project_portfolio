@@ -19,7 +19,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 * Utilized MySQL extensively for data manipulation in both the data pre-processing phase and the subsequent analysis process. Combined with Power BI for comprehensive dashboard creation, this project extracted actionable insights to drive business strategies.
 * Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
 
-![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/blob/main/images/Plato's%20Pizza%20Sales%20Analysis.png)
+![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
 
 
 **Electronic Products Rating Analysis**
