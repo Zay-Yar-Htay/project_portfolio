@@ -26,6 +26,9 @@ Diligent and experienced professional with above 4 years of experience in spatia
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
 * Identified key insights including the relationship between product ratings and recommendation status, the impact of product features on reviews and ratings, highest average customer satisfaction across brands, and recommendation distribution.
 
+![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/895aa5bd-9a54-4a01-9be7-092b2df9b676)
+
+
 **[Udemy Courses Analysis](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis)** ([Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDQ5NmQ4YTItYTNkOC00N2YwLWEyZTYtNTU1Y2FiM2ZiYTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 *	Extracted and cleaned raw data from Udemy datasets using Excel to ensure data accuracy and consistency.
 *	Utilized Power BI to create measures and implemented DAX for advanced data analysis and visualization.
