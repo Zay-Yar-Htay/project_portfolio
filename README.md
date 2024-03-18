@@ -1,4 +1,4 @@
-![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/50c5f7c7-beaf-4ce5-9a62-72cafabacfc7)# Data Analyst | Report Developer
+# Data Analyst | Report Developer
 
 
 
