@@ -1,4 +1,4 @@
-# Data Analyst | Report Developer
+![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/50c5f7c7-beaf-4ce5-9a62-72cafabacfc7)# Data Analyst | Report Developer
 
 
 
@@ -26,14 +26,13 @@ Diligent and experienced professional with above 4 years of experience in spatia
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
 * Identified key insights including the relationship between product ratings and recommendation status, the impact of product features on reviews and ratings, highest average customer satisfaction across brands, and recommendation distribution.
 
-**[Udemy Courses Analysis](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis)**
+**[Udemy Courses Analysis](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis)** [Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDQ5NmQ4YTItYTNkOC00N2YwLWEyZTYtNTU1Y2FiM2ZiYTg3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 *	Extracted and cleaned raw data from Udemy datasets using Excel to ensure data accuracy and consistency.
 *	Utilized Power BI to create measures and implemented DAX for advanced data analysis and visualization.
 *	Identified correlations and trends in subscriber behavior, revenue generation, and course popularity across different subjects and years.
 *	Generated actionable insights into subscriber behavior, revenue trends, and course popularity, facilitating data-driven decision-making.
 
-![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
-
+![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/cfd4ac45-3725-4e3d-a85a-466f22670f6b)
 
 
 ## Professional Experiences
