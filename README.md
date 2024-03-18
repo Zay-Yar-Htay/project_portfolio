@@ -18,7 +18,9 @@ Diligent and experienced professional with above 4 years of experience in spatia
 **[Pizza Place Sales Analysis](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis)**
 * Utilized MySQL extensively for data manipulation in both the data pre-processing phase and the subsequent analysis process. Combined with Power BI for comprehensive dashboard creation, this project extracted actionable insights to drive business strategies.
 * Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
+
 ![Plato's Pizza Sales Analysis](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
+
 
 **Electronic Products Rating Analysis**
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
@@ -29,6 +31,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 *	Utilized Power BI to create measures and implemented DAX for advanced data analysis and visualization.
 *	Identified correlations and trends in subscriber behavior, revenue generation, and course popularity across different subjects and years.
 *	Generated actionable insights into subscriber behavior, revenue trends, and course popularity, facilitating data-driven decision-making.
+
 ![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
 
 
