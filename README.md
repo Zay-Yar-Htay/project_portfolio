@@ -22,7 +22,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 ![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/e3c50516-5861-41fb-98d4-d6165a4cdef0)
 
 
-**Electronic Products Rating Analysis** [Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjAyNThlZDUtYzdkNS00NWY0LTljMWQtNjY0MDZlN2Q3MTJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+**Electronic Products Rating Analysis** ([Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjAyNThlZDUtYzdkNS00NWY0LTljMWQtNjY0MDZlN2Q3MTJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
 * Identified key insights including the relationship between product ratings and recommendation status, the impact of product features on reviews and ratings, highest average customer satisfaction across brands, and recommendation distribution.
 
