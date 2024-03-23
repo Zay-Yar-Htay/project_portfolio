@@ -35,7 +35,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 *	Identified correlations and trends in subscriber behavior, revenue generation, and course popularity across different subjects and years.
 *	Generated actionable insights into subscriber behavior, revenue trends, and course popularity, facilitating data-driven decision-making.
 
-![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/project_portfolio/assets/157587547/cfd4ac45-3725-4e3d-a85a-466f22670f6b)
+![Udemy Courses Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/dccc79a9-b9a3-411a-ab6c-10eec1ed0919)
 
 
 ## Professional Experiences
