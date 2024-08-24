@@ -8,7 +8,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 
 ## Technical Skills
-* SQL (SQL ServerL)
+* SQL (SQL Server)
 * Excel (Pivot Tables, Formulas & Functions, Conditional Formatting, Power Query)
 * Power BI (Interactive Dashboards, Data Modeling, DAX, Power Query)
 
