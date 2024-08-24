@@ -15,11 +15,14 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 
 ## Projects
-**Plato's Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYmZkNzg0NzMtMmNhNS00Y2JiLThlMGEtNWUzNWNiZGQzNzk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
-* Utilized MySQL extensively for data manipulation in both the data pre-processing phase and the subsequent analysis process. Combined with Power BI for comprehensive dashboard creation, this project extracted actionable insights to drive business strategies.
-* Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
+**Plato's Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Plato-Pizza-Place-Sales-Analysis), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGJjOWUtNjkwNy00YTZhLWFhM2MtOGE2ZTFkMWYzZDUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+* Extensively utilized SQL Server for the data pre-processing phase and subsequent analysis on over 48,000 records with 4 multiple tables. Combined it with Power BI for interactive reporting, uncovering key insights into customer behavior, revenue trends, and menu performance.
+* Developed dashboards to visualize daily customer counts, peak hours, bestselling pizzas, and seasonal sales patterns, driving strategic recommendations for menu optimization and promotions.
 
-![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/8d40f53a-e9de-4a73-b723-916a9e22d39b)
+**Tools Used:** SQL Server (MSSQL) and Power BI
+
+![Plato Pizza Sales Analysis Report](https://github.com/user-attachments/assets/026e1711-6cf2-4255-a8d9-5e96acce1132)
+
 
 **Electronic Products Rating Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/tree/main), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjRjNjFiNWYtODI2Ny00NTY4LTkxNzgtOWYxNjQzNTAzODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
