@@ -16,12 +16,21 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 ## Projects
 **Plato Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Plato-Pizza-Place-Sales-Analysis), [Interactive Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGJjOWUtNjkwNy00YTZhLWFhM2MtOGE2ZTFkMWYzZDUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
-* Extensively utilized SQL Server for the data pre-processing phase and subsequent analysis on over 48,000 records with 4 multiple tables. Combined it with Power BI for interactive reporting, uncovering key insights into customer behavior, revenue trends, and menu performance.
+* This project aimed to provide actionable insights that could guide Plato Pizza's strategic decisions, from optimizing the menu to enhancing customer engagement. The analysis focused on understanding daily customer traffic, identifying peak hours, determining bestselling and underperforming pizzas, and assessing revenue patterns to uncover potential seasonality in sales.
+* Extensively utilized SQL Server for the data pre-processing phase and subsequent analysis on over 48,000 records with 4 different tables. Combined it with Power BI for interactive reporting, uncovering key insights into customer behavior, revenue trends, and menu performance.
 * Developed dashboards to visualize daily customer counts, peak hours, bestselling pizzas, and seasonal sales patterns, driving strategic recommendations for menu optimization and promotions.
 
 **Tools Used:** SQL Server (MSSQL) and Power BI
 
 ![Plato Pizza Sales Analysis Report](https://github.com/user-attachments/assets/026e1711-6cf2-4255-a8d9-5e96acce1132)
+
+
+**CodeX Energy Drink Market Research Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/CodeX-Energy-Drink-Market-Research-Analysis))
+* This project aimed to derive actionable insights that could guide marketing strategy, product development, and market positioning efforts in the market. The analysis focused on identifying key factors influencing consumer preferences, uncovering barriers to trial, and exploring opportunities for brand differentiation and packaging innovation.
+* To effectively manage and analyze the survey response data from 10,000 participants to uncover valuable insights, utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports.
+* Generated actional insights into consumers preferences, consumption habits, brand vs competitors analysis, marketing & brand awareness, and purchasing behavior, etc... Interactive reports offer dynamic data filtering and visualization options as well as enabled users to engage with the data and derive insights directly from the visualizations.
+
+**Tools Used:** Excel
 
 
 **Electronic Products Rating Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/tree/main), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjRjNjFiNWYtODI2Ny00NTY4LTkxNzgtOWYxNjQzNTAzODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
