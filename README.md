@@ -27,7 +27,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 **2. CodeX Energy Drink Market Research Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/CodeX-Energy-Drink-Market-Research-Analysis))
 * This project aimed to derive actionable insights that could guide marketing strategy, product development, and market positioning efforts in the market. The analysis focused on identifying key factors influencing consumer preferences, uncovering barriers to trial, and exploring opportunities for brand differentiation and packaging innovation.
-* To effectively manage and analyze the survey response data from 10,000 participants to uncover valuable insights, utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports.
+* To effectively manage, analyze, and uncover the valuable insights from the 10,000 participants' survey response data, utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports.
 * Generated actional insights into consumers preferences, consumption habits, brand vs competitors analysis, marketing & brand awareness, and purchasing behavior, etc... Interactive reports offer dynamic data filtering and visualization options as well as enabled users to engage with the data and derive insights directly from the visualizations.
 
 **Tools Used:** Excel
