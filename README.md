@@ -32,6 +32,8 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 **Tools Used:** Excel
 
+![Report Home Page](https://github.com/user-attachments/assets/b981d2f9-81d8-4398-9602-c30904164d2d)
+
 
 **Electronic Products Rating Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/tree/main), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjRjNjFiNWYtODI2Ny00NTY4LTkxNzgtOWYxNjQzNTAzODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 * Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
