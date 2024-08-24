@@ -15,7 +15,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 
 ## Projects
-**Plato's Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Plato-Pizza-Place-Sales-Analysis), [Interactive Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGJjOWUtNjkwNy00YTZhLWFhM2MtOGE2ZTFkMWYzZDUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+**Plato Pizza Sales Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Plato-Pizza-Place-Sales-Analysis), [Interactive Report Link](https://app.powerbi.com/view?r=eyJrIjoiZTRhNGJjOWUtNjkwNy00YTZhLWFhM2MtOGE2ZTFkMWYzZDUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
 * Extensively utilized SQL Server for the data pre-processing phase and subsequent analysis on over 48,000 records with 4 multiple tables. Combined it with Power BI for interactive reporting, uncovering key insights into customer behavior, revenue trends, and menu performance.
 * Developed dashboards to visualize daily customer counts, peak hours, bestselling pizzas, and seasonal sales patterns, driving strategic recommendations for menu optimization and promotions.
 
