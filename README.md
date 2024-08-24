@@ -36,8 +36,9 @@ Diligent and experienced professional with above 4 years of experience in spatia
 
 
 **3. Electronic Products Rating Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/tree/main), [Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjRjNjFiNWYtODI2Ny00NTY4LTkxNzgtOWYxNjQzNTAzODA3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
-* Utilized Power BI for data manipulation, cleaning, and analysis, creating interactive report dashboards.
-* Identified key insights including the relationship between product ratings and recommendation status, the impact of product features on reviews and ratings, highest average customer satisfaction across brands, and recommendation distribution.
+* This project aimed to provide actionable insights that could guide brand management, product development, and marketing strategies. The analysis focused on understanding the relationship between product ratings and recommendation status, identifying brands with the highest customer satisfaction across different categories, and examining how product features like color and dimensions influence customer reviews and ratings.
+* Extensively utilized Power BI for data profiling, pre-processing, analyzing, and developing interactive reports. Identified key insights including the relationship between product ratings and recommendation status, the impact of product features on reviews and ratings, highest average customer satisfaction across brands, and recommendation distribution.
+* Developed dashboards to visualize customer satisfaction rates on brand & product details, recommendation status based on rating scale, and recommendation status distribution, facilitating data-driven decision-making.
 
 ![Electronic Products Rating Analysis Report](https://github.com/Zay-Yar-Htay/Electronic-Products-Rating-Analysis/assets/157587547/c632f6eb-49fe-4a20-a264-7496c8c8bdd7)
 
