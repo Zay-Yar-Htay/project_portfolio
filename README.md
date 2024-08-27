@@ -25,7 +25,7 @@ Diligent and experienced professional with above 4 years of experience in spatia
 ![Plato Pizza Sales Analysis Report](https://github.com/user-attachments/assets/026e1711-6cf2-4255-a8d9-5e96acce1132)
 
 
-**2. CodeX Energy Drink Market Research Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/CodeX-Energy-Drink-Market-Research-Analysis), [Report Link](https://1drv.ms/x/c/7c0db0bbeba27f0e/EWHKgISdnTVEsKWWW5M3rhQB2KYuBvumpDaX9KNHQ_RnrA?e=CzNsVK))
+**2. CodeX Energy Drink Market Research Analysis** ([Project Details](https://github.com/Zay-Yar-Htay/CodeX-Energy-Drink-Market-Research-Analysis), [Report Link](https://1drv.ms/x/c/7c0db0bbeba27f0e/EQhFZsRjdulIilxZo3EaKGUB5Rjy770N1Ohd0zfDPRduTg?e=IHF6Eu))
 * This project aimed to derive actionable insights that could guide marketing strategy, product development, and market positioning efforts in the market. The analysis focused on identifying key factors influencing consumer preferences, uncovering barriers to trial, and exploring opportunities for brand differentiation and packaging innovation.
 * To effectively manage, analyze, and uncover the valuable insights from the 10,000 participants' survey response data, utilized Excel for data profiling, pre-processing, analyzing, and developing interactive reports.
 * Generated actional insights into consumers preferences, consumption habits, brand vs competitors analysis, marketing & brand awareness, and purchasing behavior, etc... Interactive reports offer dynamic data filtering and visualization options as well as enabled users to engage with the data and derive insights directly from the visualizations.
